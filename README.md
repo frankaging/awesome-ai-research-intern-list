@@ -5,3 +5,4 @@ This is a private collection of opening summer intern positions in big tech comp
 | Company Name  |       Area    | Post Date    | Interview Question | Link |
 | ------------- |:-------------:| ------------:|       ------------:| ----:|
 | Salesforce    | DL/AL         | Aug., 2022   | Unknown            | [Job Link](https://salesforce.wd1.myworkdayjobs.com/en-US/Futureforce_Internships/job/California---Palo-Alto/XMLNAME-2023-Research-Intern---Salesforce-Research-Tableau-Research_JR158577-1?d=cta-summer-view-sjb-1) 
+| Apple    | DL/AL Application         | June, 2022   | Unknown            | [Job Link](https://jobs.apple.com/en-us/details/200389050/machine-learning-ai-internship?team=STDNT) 
