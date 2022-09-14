@@ -5,6 +5,7 @@ This is a private collection of opening summer intern positions in big tech comp
 - Referral's Company Email.
 - C.V.
 - Short Introduction Paragraph.
+- Your Institution Email.
 
 ## Short Introduction Paragraph Example
 
@@ -20,5 +21,5 @@ Zhengxuan is a first-year CS Ph.D. student at Stanford University, studying natu
 | MSR Asia    | DL/AL Researcher         | Unknown   | Unknown            | [Job Link](https://www.microsoft.com/en-us/research/opportunity/deep-learning-research-intern-msra-shanghai-research-group/) | Shanghai, China |  |
 | MSR Asia    | Large-scale AI Model Researcher         | Unknown   | Unknown            | [Job Link](https://www.microsoft.com/en-us/research/opportunity/large-scale-ai-models-continual-learning-research-intern-msr-asia-networking-research-group/) | Beijing, China |  |
 | Deepmind    | DL/AL Researcher         | Sept., 16, 2022   | Unknown            | [Job Link](https://www.deepmind.com/careers/internships?sort=alphabetical) | Unknown |  |
-| Amazon    | NLP+Speech         | July, 2022   | Unknown            | [Job Link](https://www.amazon.jobs/en/jobs/2171934/2023-applied-science-internship-natural-language-processing-and-speech-technologies-united-states?cmpid=bsp-amazon-science) | multiple locations across the United States |  |
-| Amazon    | ML         | July, 2022   | Unknown            | [Job Link](https://www.amazon.jobs/en/jobs/2156173/2023-applied-science-internship-machine-learning-united-states?cmpid=bsp-amazon-science) | multiple locations across the United States |  |
+| Amazon    | NLP+Speech         | July, 2022   | Unknown            | [Job Link](https://www.amazon.jobs/en/jobs/2171934/2023-applied-science-internship-natural-language-processing-and-speech-technologies-united-states?cmpid=bsp-amazon-science) | multiple locations across the United States | Referred |
+| Amazon    | ML         | July, 2022   | Unknown            | [Job Link](https://www.amazon.jobs/en/jobs/2156173/2023-applied-science-internship-machine-learning-united-states?cmpid=bsp-amazon-science) | multiple locations across the United States | Referred |
