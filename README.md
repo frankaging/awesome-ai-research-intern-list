@@ -6,6 +6,7 @@ This is a private collection of opening summer intern positions in big tech comp
 - C.V.
 - Short Introduction Paragraph.
 - Your Institution Email.
+- Your Cell Phone Number.
 
 ## Short Introduction Paragraph Example
 
