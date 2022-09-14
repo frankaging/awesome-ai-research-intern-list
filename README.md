@@ -3,7 +3,7 @@ This is a private collection of opening summer intern positions in big tech comp
 
 ## Referring Materials
 - Referral's Company Email.
-- C.V.
+- C.V. (Check Email, Check Phone Number).
 - Short Introduction Paragraph.
 - Your Institution Email.
 - Your Cell Phone Number.
