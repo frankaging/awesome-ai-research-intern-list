@@ -10,7 +10,7 @@ This is a private collection of opening summer intern positions in big tech comp
 
 ## Short Introduction Paragraph Example
 
-Zhengxuan is a first-year CS Ph.D. student at Stanford University, studying natural language processing (NLP). His rotation advisors include Profs. Chris Manning, Noah Goodman, and Chris Potts. In the past, he has published first-authored papers at top machine learning conferences including NeurIPS, ICML, AAAI, ACL, and NAACL. Zhengxuan is interested in building interpretable and robust NLP systems. Before this Ph.D., Zhengxuan worked in the tech industry as a senior engineer for more than 5 years.
+Zhengxuan is a first-year CS Ph.D. student at Stanford University, studying natural language processing (NLP). His rotation advisors include Profs. Chris Manning, Noah Goodman, and Chris Potts. In the past, he has published first-authored papers at top machine learning conferences including NeurIPS, ICML, AAAI, ACL, and NAACL. Zhengxuan is interested in building interpretable and robust NLP systems. Before his Ph.D., Zhengxuan worked in the tech industry as a senior engineer for more than 5 years.
 
 ## Big Tech Companies
 | Company Name  |       Area    | Post Date    | Interview Question | Link | Location | Applied/Referred |
