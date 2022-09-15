@@ -16,7 +16,7 @@ Zhengxuan is a first-year CS Ph.D. student at Stanford University, studying natu
 | Company Name  |       Area    | Post Date    | Interview Question | Link | Location | Applied/Referred |
 | ------------- |:-------------:| ------------:|       ------------:| ----:|     ----:|             ----:|
 | Salesforce    | DL/AL  Researcher | Aug., 2022   | Unknown            | [Job Link](https://salesforce.wd1.myworkdayjobs.com/en-US/Futureforce_Internships/job/California---Palo-Alto/XMLNAME-2023-Research-Intern---Salesforce-Research-Tableau-Research_JR158577-1?d=cta-summer-view-sjb-1) | Seattle, Bay Area | Referred |
-| Apple    | DL/AL Application         | June, 2022   | Unknown            | [Job Link](https://jobs.apple.com/en-us/details/200389050/machine-learning-ai-internship?team=STDNT) | Bay Area |  |
+| Apple    | DL/AL Application         | June, 2022   | Unknown            | [Job Link](https://jobs.apple.com/en-us/details/200389050/machine-learning-ai-internship?team=STDNT) | Bay Area | Applied |
 | IBM    | DL/AL Researcher         | Unknown   | Unknown            | [Job Link](https://careers.ibm.com/job/16581370/2023-return-intern-research-scientist-artificial-intelligence-remote/?codes=IBM_CareerWebSite) | San Jose, CA; Cambridge, MA; Yorktown Heights, NY |  |
 | IBM+Watson    | DL/AL Researcher         | Unknown   | Unknown            | [Job Link](https://careers.ibm.com/job/16615779/2023-intern-research-mit-ibm-watson-ai-summer-intern-remote/?codes=IBM_CareerWebSite) | Cambridge, MA or Yorktown Heights, N |  |
 | MSR Asia    | DL/AL Researcher         | Unknown   | Unknown            | [Job Link](https://www.microsoft.com/en-us/research/opportunity/deep-learning-research-intern-msra-shanghai-research-group/) | Shanghai, China |  |
