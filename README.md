@@ -24,10 +24,8 @@ XXX is a first-year CS Ph.D. student at XXX University, studying XXX. His rotati
 | Deepmind    | DL/AL Researcher         | Sept., 16, 2022   | Unknown            | [Job Link](https://www.deepmind.com/careers/internships?sort=alphabetical) | Unknown |  |
 | Amazon    | NLP+Speech         | July, 2022   | Unknown            | [Job Link](https://www.amazon.jobs/en/jobs/2171934/2023-applied-science-internship-natural-language-processing-and-speech-technologies-united-states?cmpid=bsp-amazon-science) | multiple locations across the United States | Referred |
 | Amazon    | ML         | July, 2022   | Unknown            | [Job Link](https://www.amazon.jobs/en/jobs/2156173/2023-applied-science-internship-machine-learning-united-states?cmpid=bsp-amazon-science) | multiple locations across the United States | Referred |
-| AllenNLP    | ML         | -  | Unknown            | [Job Link](https://boards.greenhouse.io/thealleninstitute/jobs/2171612) | Remote Hybrid
- |  |
-| Microsoft Semantic Machine    | NLP/ML/AI         | -  | Unknown            | [Job Link](https://careers.microsoft.com/us/en/job/1476274/Research-Intern-Semantic-Machines-Multi-Turn-Task-Oriented-Dialogue) | Remote Hybrid
-|  |
+| AllenNLP    | ML         | -  | Unknown            | [Job Link](https://boards.greenhouse.io/thealleninstitute/jobs/2171612) | Remote Hybrid |  |
+| Microsoft Semantic Machine    | NLP/ML/AI         | -  | Unknown            | [Job Link](https://careers.microsoft.com/us/en/job/1476274/Research-Intern-Semantic-Machines-Multi-Turn-Task-Oriented-Dialogue) | In-Person/Remote Hybrid |  |
 
 
 ## Big Tech Companies Student Researcher
