@@ -28,6 +28,8 @@ XXX is a first-year CS Ph.D. student at XXX University, studying XXX. His rotati
 | Microsoft Semantic Machine    | NLP/ML/AI         | -  | Unknown            | [Job Link](https://careers.microsoft.com/us/en/job/1476274/Research-Intern-Semantic-Machines-Multi-Turn-Task-Oriented-Dialogue) | In-Person/Remote Hybrid |  |
 | Google    | AI Researcher        | -  | Unknown            | [Job Link](https://careers.google.com/jobs/results/120135485411467974-research-intern-phd-summer-2023/?company=Google&company=Waymo&company=X&distance=50&employment_type=INTERN&page=2&src=Online%2FGoogle%20Website%2FByF&utm_campaign=ByF&utm_medium=careers_site%20&utm_source=Online%20) | In-Person/Remote Hybrid | Applied |
 | LinkedIn   | Data Scientist       | -  | Unknown            | [Job Link](https://www.linkedin.com/jobs/view/applied-research-intern-at-linkedin-3296009618/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) | In-Person/Remote Hybrid | Applied |
+| Zoom   | NLP/Speech    | -  | Unknown            | [Job Link](https://careers.zoom.us/jobs/2023-machine-learning-research-intern-san-jose-california-united-states-92c4e8bd-5b1a-4093-b582-382ed0c07cd7?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) | In-Person/Remote Hybrid |  |
+| Cohere   | ML       | -  | Unknown            | [Job Link](https://angel.co/company/cohere-ai/jobs/2440532-machine-learning-intern-summer-2023?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) | In-Person/Remote Hybrid |  |
 
 
 ## Big Tech Companies Student Researcher
