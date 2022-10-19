@@ -26,11 +26,11 @@ XXX is a first-year CS Ph.D. student at XXX University, studying XXX. His rotati
 | Amazon    | ML         | July, 2022   | Unknown            | [Job Link](https://www.amazon.jobs/en/jobs/2156173/2023-applied-science-internship-machine-learning-united-states?cmpid=bsp-amazon-science) | multiple locations across the United States | Referred |
 | AllenNLP    | ML         | -  | Unknown            | [Job Link](https://boards.greenhouse.io/thealleninstitute/jobs/2171612) | Remote Hybrid |  |
 | Microsoft Semantic Machine    | NLP/ML/AI         | -  | Unknown            | [Job Link](https://careers.microsoft.com/us/en/job/1476274/Research-Intern-Semantic-Machines-Multi-Turn-Task-Oriented-Dialogue) | In-Person/Remote Hybrid |  |
-| Google    | AI Researcher        | -  | Unknown            | [Job Link](https://careers.google.com/jobs/results/120135485411467974-research-intern-phd-summer-2023/?company=Google&company=Waymo&company=X&distance=50&employment_type=INTERN&page=2&src=Online%2FGoogle%20Website%2FByF&utm_campaign=ByF&utm_medium=careers_site%20&utm_source=Online%20) | In-Person/Remote Hybrid |  |
-| LinkedIn   | Data Scientist       | -  | Unknown            | [Job Link](https://www.linkedin.com/jobs/view/applied-research-intern-at-linkedin-3296009618/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) | In-Person/Remote Hybrid |  |
+| Google    | AI Researcher        | -  | Unknown            | [Job Link](https://careers.google.com/jobs/results/120135485411467974-research-intern-phd-summer-2023/?company=Google&company=Waymo&company=X&distance=50&employment_type=INTERN&page=2&src=Online%2FGoogle%20Website%2FByF&utm_campaign=ByF&utm_medium=careers_site%20&utm_source=Online%20) | In-Person/Remote Hybrid | Applied |
+| LinkedIn   | Data Scientist       | -  | Unknown            | [Job Link](https://www.linkedin.com/jobs/view/applied-research-intern-at-linkedin-3296009618/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) | In-Person/Remote Hybrid | Applied |
 
 
 ## Big Tech Companies Student Researcher
 | Company Name  |       Area    | Post Date    | Interview Question | Link | Location | Applied/Referred |
 | ------------- |:-------------:| ------------:|       ------------:| ----:|     ----:|             ----:|
-| Google    | ML         | Unknown   | Unknown            | [Job Link](https://careers.google.com/jobs/results/90561535148991174-student-researcher-phd-2022/?degree=DOCTORATE&distance=50&employment_type=INTERN&location=California,%20USA) | multiple locations across the United States |  |
+| Google    | ML         | Unknown   | Unknown            | [Job Link](https://careers.google.com/jobs/results/90561535148991174-student-researcher-phd-2022/?degree=DOCTORATE&distance=50&employment_type=INTERN&location=California,%20USA) | multiple locations across the United States | Applied |
