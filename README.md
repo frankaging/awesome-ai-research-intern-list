@@ -31,6 +31,9 @@ XXX is a first-year CS Ph.D. student at XXX University, studying XXX. His rotati
 | Zoom   | NLP/Speech    | -  | Unknown            | [Job Link](https://careers.zoom.us/jobs/2023-machine-learning-research-intern-san-jose-california-united-states-92c4e8bd-5b1a-4093-b582-382ed0c07cd7?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) | In-Person/Remote Hybrid |  |
 | Cohere   | ML       | -  | Unknown            | [Job Link](https://angel.co/company/cohere-ai/jobs/2440532-machine-learning-intern-summer-2023?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) | In-Person/Remote Hybrid |  |
 | HuggingFace   | ML/NLP       | -  | Unknown            | [Job Link](https://huggingface.co/blog/interns-2023) | Remote |  |
+| BlueShift@Google   | ML/NLP       | -  | Unknown            | [Job Link](https://docs.google.com/forms/d/e/1FAIpQLSe11v7AYyl8VtoiWc9DItNxnBTCdgHxAQciSDWNyOCijxkCqg/viewform) | Remote |  |
+| Meta   | ML/NLP       | -  | Unknown            | [Job Link](https://www.metacareers.com/jobs/547270586848082/) | Remote |  |
+| Bloomberg   | ML/NLP       | -  | Unknown            | [Job Link](https://gideonmann77.github.io/interns-2023.html) | Remote |  |
 
 
 ## Big Tech Companies Student Researcher
