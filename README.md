@@ -1,5 +1,5 @@
 # Live Repo: AI-related Intern and Student Researcher Oppertunities (now at year 2023)
-This is a private collection of opening summer intern positions in big tech company for AI-related research jobs. This is a live-repo, and is maintained actively.
+This is a live collection of AI-related summer internship and part-time student researcher positions. This is maintained actively, and up-to-date for each year.
 
 ## Referring Materials
 - Referral's Company Email.
