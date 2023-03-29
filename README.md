@@ -1,4 +1,4 @@
-# AI-related Researcher Intern for Summer 2023
+# Live AI-related Researcher Intern and Student Researcher Oppertunities (Update for each year, now at 2023)
 This is a private collection of opening summer intern positions in big tech company for AI-related research jobs. This is a live-repo, and is maintained actively.
 
 ## Referring Materials
@@ -12,7 +12,7 @@ This is a private collection of opening summer intern positions in big tech comp
 
 XXX is a first-year CS Ph.D. student at XXX University, studying XXX. His rotation advisors include XXX, XXX and XXX. In the past, he has published first-authored papers at top machine learning conferences including XXX, XXX and XXX. XXX is interested in XXX. Before his Ph.D., XXX worked in XXX.
 
-## Big Tech Companies
+### 2023 Summer Intern and Student Researcher
 | Company Name  |       Area    | Post Date    | Interview Question | Link | Location | Applied/Referred |
 | ------------- |:-------------:| ------------:|       ------------:| ----:|     ----:|             ----:|
 | Salesforce    | DL/AL  Researcher | Aug., 2022   | Unknown            | [Job Link](https://salesforce.wd1.myworkdayjobs.com/en-US/Futureforce_Internships/job/California---Palo-Alto/XMLNAME-2023-Research-Intern---Salesforce-Research-Tableau-Research_JR158577-1?d=cta-summer-view-sjb-1) | Seattle, Bay Area | Referred |
@@ -33,10 +33,4 @@ XXX is a first-year CS Ph.D. student at XXX University, studying XXX. His rotati
 | HuggingFace   | ML/NLP       | -  | Unknown            | [Job Link](https://huggingface.co/blog/interns-2023) | Remote |  |
 | BlueShift@Google   | ML/NLP       | -  | Unknown            | [Job Link](https://docs.google.com/forms/d/e/1FAIpQLSe11v7AYyl8VtoiWc9DItNxnBTCdgHxAQciSDWNyOCijxkCqg/viewform) | Remote |  |
 | Meta   | ML/NLP       | -  | Unknown            | [Job Link](https://www.metacareers.com/jobs/547270586848082/) | Remote |  |
-| Bloomberg   | ML/NLP       | -  | Unknown            | [Job Link](https://gideonmann77.github.io/interns-2023.html) | Remote |  |
-
-
-## Big Tech Companies Student Researcher
-| Company Name  |       Area    | Post Date    | Interview Question | Link | Location | Applied/Referred |
-| ------------- |:-------------:| ------------:|       ------------:| ----:|     ----:|             ----:|
 | Google    | ML         | Unknown   | Unknown            | [Job Link](https://careers.google.com/jobs/results/90561535148991174-student-researcher-phd-2022/?degree=DOCTORATE&distance=50&employment_type=INTERN&location=California,%20USA) | multiple locations across the United States | Applied |
