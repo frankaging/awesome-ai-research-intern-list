@@ -1,4 +1,4 @@
-# Live AI-related Researcher Intern and Student Researcher Oppertunities (Update for each year, now at 2023)
+# Live Repo: AI-related Intern and Student Researcher Oppertunities (now at year 2023)
 This is a private collection of opening summer intern positions in big tech company for AI-related research jobs. This is a live-repo, and is maintained actively.
 
 ## Referring Materials
@@ -10,7 +10,11 @@ This is a private collection of opening summer intern positions in big tech comp
 
 ## Short Introduction Paragraph Example
 
-XXX is a first-year CS Ph.D. student at XXX University, studying XXX. His rotation advisors include XXX, XXX and XXX. In the past, he has published first-authored papers at top machine learning conferences including XXX, XXX and XXX. XXX is interested in XXX. Before his Ph.D., XXX worked in XXX.
+XXX is a X-year CS Ph.D. student at XXX University, studying XXX. His rotation advisors include XXX, XXX and XXX. In the past, he has published first-authored papers at top machine learning conferences including XXX, XXX and XXX. XXX is interested in XXX. Before his Ph.D., XXX worked in XXX.
+
+### 2024 Summer Intern and Student Researcher
+| Company Name  |       Area    | Post Date    | Interview Question | Link | Location | Applied/Referred |
+| ------------- |:-------------:| ------------:|       ------------:| ----:|     ----:|             ----:|
 
 ### 2023 Summer Intern and Student Researcher
 | Company Name  |       Area    | Post Date    | Interview Question | Link | Location | Applied/Referred |
