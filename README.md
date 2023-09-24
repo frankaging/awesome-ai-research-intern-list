@@ -1,4 +1,4 @@
-# Live Repo: AI-related Intern and Student Researcher Oppertunities (now at year 2023)
+# Live Repo: AI-related Intern and Student Researcher Opportunities (now at year 2024)
 This is a live collection of AI-related summer internship and part-time student researcher positions. This is maintained actively, and up-to-date for each year.
 
 ## Referring Materials
@@ -15,6 +15,7 @@ XXX is a X-year CS Ph.D. student at XXX University, studying XXX. His rotation a
 ### 2024 Summer Intern and Student Researcher
 | Company Name  |       Area    | Post Date    | Interview Question | Link | Location | Applied/Referred |
 | ------------- |:-------------:| ------------:|       ------------:| ----:|     ----:|             ----:|
+| Mosaic team at AI2    | ML         | -  | Unknown            | [Job Link](https://boards.greenhouse.io/thealleninstitute/jobs/2171558) | Hybrid |  |
 
 ### 2023 Summer Intern and Student Researcher
 | Company Name  |       Area    | Post Date    | Interview Question | Link | Location | Applied/Referred |
