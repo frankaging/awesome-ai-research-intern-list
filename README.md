@@ -21,6 +21,8 @@ XXX is a X-year CS Ph.D. student at XXX University, studying XXX. His rotation a
 | Microsoft    | Research Scientist         | - | Unknown            | [Job Link](https://jobs.careers.microsoft.com/global/en/job/1627154/Research-Sciences-Intern) | Richmond, WA | |
 | Microsoft    | Applied Scientist         | - | Unknown            | [Job Link](https://jobs.careers.microsoft.com/global/en/job/1602351/Applied-Scientist%3a-PhD-Internship-Opportunities) | Richmond, WA | |
 | Microsoft    | AI Research         | - | Unknown            | [Job Link](https://jobs.careers.microsoft.com/global/en/job/1627619/AI-Researcher%3A-PhD-Internship-Opportunities-Microsoft-Research) | Richmond, WA | |
+| ByteDance    | AI Research         | - | Unknown            | [Job Link]([https://jobs.careers.microsoft.com/global/en/job/1627619/AI-Researcher%3A-PhD-Internship-Opportunities-Microsoft-Research](https://www.linkedin.com/jobs/view/3690915816/?refId=ByteString(length%3D16%2Cbytes%3Dc8339841...722fbede)&trackingId=FfRwpgmaRnpgGe1PdzQNqA%3D%3D
+)) | Bay Area | |
 
 ### 2023 Summer Intern and Student Researcher
 | Company Name  |       Area    | Post Date    | Interview Question | Link | Location | Applied/Referred |
