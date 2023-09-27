@@ -18,7 +18,9 @@ XXX is a X-year CS Ph.D. student at XXX University, studying XXX. His rotation a
 | Mosaic team at AI2    | ML         | -  | Unknown            | [Job Link](https://boards.greenhouse.io/thealleninstitute/jobs/2171558) | Hybrid |  |
 | Apple    | ML/AI Internship         | - | Unknown            | [Job Link](https://jobs.apple.com/en-us/details/200480066/machine-learning-ai-internships?team=STDNT) | US Various Locations | |
 | Amazon    | RS         | - | Unknown            | [Job Link](https://www.amazon.jobs/en/jobs/2426896/2024-summer-research-science-internship-united-states-phd-student-science-recruiting) | US Various Locations | |
-
+| Microsoft    | Research Scientist         | - | Unknown            | [Job Link](https://jobs.careers.microsoft.com/global/en/job/1627154/Research-Sciences-Intern) | Richmond, WA | |
+| Microsoft    | Applied Scientist         | - | Unknown            | [Job Link](https://jobs.careers.microsoft.com/global/en/job/1602351/Applied-Scientist%3a-PhD-Internship-Opportunities) | Richmond, WA | |
+| Microsoft    | AI Research         | - | Unknown            | [Job Link](https://jobs.careers.microsoft.com/global/en/job/1627619/AI-Researcher%3A-PhD-Internship-Opportunities-Microsoft-Research) | Richmond, WA | |
 
 ### 2023 Summer Intern and Student Researcher
 | Company Name  |       Area    | Post Date    | Interview Question | Link | Location | Applied/Referred |
