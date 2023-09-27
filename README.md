@@ -16,7 +16,7 @@ XXX is a X-year CS Ph.D. student at XXX University, studying XXX. His rotation a
 | Company Name  |       Area    | Post Date    | Interview Question | Link | Location | Applied/Referred |
 | ------------- |:-------------:| ------------:|       ------------:| ----:|     ----:|             ----:|
 | Mosaic team at AI2    | ML         | -  | Unknown            | [Job Link](https://boards.greenhouse.io/thealleninstitute/jobs/2171558) | Hybrid |  |
-| Apple    | DL/AL Application         | June, 2022   | Unknown            | [Job Link](https://jobs.apple.com/en-us/details/200480066/machine-learning-ai-internships?team=STDNT) | US Various Locations | |
+| Apple    | ML/AI Internship         | June, 2022   | Unknown            | [Job Link](https://jobs.apple.com/en-us/details/200480066/machine-learning-ai-internships?team=STDNT) | US Various Locations | |
 
 
 ### 2023 Summer Intern and Student Researcher
