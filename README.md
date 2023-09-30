@@ -1,8 +1,8 @@
-# List of AI Internships
+# List of Internships in Top AI Industry Labs
 
 **Feel free to make PRs about opportunities you find!** Let's make things just a little easier together.
 
-This is a live collection of AI-related summer internships and part-time student researcher positions. This is maintained actively, and up-to-date for each year. Since my main research interest is NLP, my collection could be a little biased. I will try my best to collect other ones as well.
+This is a live collection of AI-related summer internships and part-time student researcher positions in **top** industry labs. This is maintained actively, and up-to-date for each year. Since my main research interest is NLP, my collection could be a little biased. I will try my best to collect other ones as well.
 
 ## Table of Contents  
 - [Frequent Application Materials](#materials)
