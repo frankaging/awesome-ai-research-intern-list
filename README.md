@@ -2,7 +2,19 @@
 
 **Feel free to make PRs about opportunities you find!** Let's make things just a little easier together.
 
-This is a live collection of AI-related summer internships and part-time student researcher positions. This is maintained actively, and up-to-date for each year. Please reach out to `wuzhengx@stanford.edu` if you have any questions. Since my main research interest is NLP, my collection could be a little biased. I will try my best to collect other ones as well.
+This is a live collection of AI-related summer internships and part-time student researcher positions. This is maintained actively, and up-to-date for each year. Since my main research interest is NLP, my collection could be a little biased. I will try my best to collect other ones as well.
+
+## Table of Contents  
+- [Frequent Application Materials](#materials)
+- [Example Introduction Email](#intro)   
+
+### Year
+- [2024](#2024)    
+- [2023](#2023) 
+
+---
+
+<a name="materials"/>     
 
 ## Frequent Referring / Application Materials
 
@@ -13,9 +25,13 @@ This is a live collection of AI-related summer internships and part-time student
 - Your Cell Phone Number.
 - Updated Personal Website.
 
+<a name="intro"/>
+
 ## Short Introduction Paragraph Example
 
 XXX is a X-year CS Ph.D. student at XXX University, studying XXX. His rotation advisors include XXX, XXX, and XXX. In the past, he has published first-authored papers at top machine learning conferences including XXX, XXX, and XXX. XXX is interested in XXX. Before his Ph.D., XXX worked in XXX.
+
+<a name="2024"/>
 
 ### 2024 Summer Intern and Student Researcher
 | Company Name  |       Area    | Post Date    | Interview Question | Link | Location | Applied/Referred |
@@ -38,6 +54,7 @@ XXX is a X-year CS Ph.D. student at XXX University, studying XXX. His rotation a
 | IBM    |    RS AI-powered Automation     | - | Unknown            | [Job Link](https://careers.ibm.com/job/19180976/2024-intern-research-scientist-ai-powered-automation-remote/?codes=WEB_SEARCH_NA&_gl=1*2v75dv*_ga*MTU2NTI1Nzg0Mi4xNjk2MDQ3NTc2*_ga_FYECCCS21D*MTY5NjA0NzU3NS4xLjEuMTY5NjA0NzYwMi4wLjAuMA..) | Cambridge, Yorktown Heights | |
 | IBM    |    RS Trustworthy Foundation Models     | - | Unknown            | [Job Link](https://careers.ibm.com/job/19183611/2024-intern-research-scientist-trustworthy-foundation-models-remote/?codes=WEB_SEARCH_NA&_gl=1*2v75dv*_ga*MTU2NTI1Nzg0Mi4xNjk2MDQ3NTc2*_ga_FYECCCS21D*MTY5NjA0NzU3NS4xLjEuMTY5NjA0NzYwMi4wLjAuMA..) | Cambridge, Yorktown Heights | |
 
+<a name="2023"/>
 
 ### 2023 Summer Intern and Student Researcher
 | Company Name  |       Area    | Post Date    | Interview Question | Link | Location | Applied/Referred |
