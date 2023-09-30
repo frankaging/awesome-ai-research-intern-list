@@ -1,4 +1,4 @@
-# List of AI Internships (Year 2024)
+# List of AI Internships
 
 **Feel free to make PRs about opportunities you find!** Let's make things just a little easier together.
 
@@ -8,7 +8,7 @@ This is a live collection of AI-related summer internships and part-time student
 - [Frequent Application Materials](#materials)
 - [Example Introduction Email](#intro)   
 
-### Year
+### Years
 - [2024](#2024)    
 - [2023](#2023) 
 
@@ -29,7 +29,7 @@ This is a live collection of AI-related summer internships and part-time student
 
 ## Short Introduction Paragraph Example
 
-XXX is a X-year CS Ph.D. student at XXX University, studying XXX. His rotation advisors include XXX, XXX, and XXX. In the past, he has published first-authored papers at top machine learning conferences including XXX, XXX, and XXX. XXX is interested in XXX. Before his Ph.D., XXX worked in XXX.
+> XXX is a X-year CS Ph.D. student at XXX University, studying XXX. His rotation advisors include XXX, XXX, and XXX. In the past, he has published first-authored papers at top machine learning conferences including XXX, XXX, and XXX. XXX is interested in XXX. Before his Ph.D., XXX worked in XXX.
 
 <a name="2024"/>
 
