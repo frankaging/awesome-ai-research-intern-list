@@ -22,6 +22,12 @@ XXX is a X-year CS Ph.D. student at XXX University, studying XXX. His rotation a
 | Microsoft    | Applied Scientist         | - | Unknown            | [Job Link](https://jobs.careers.microsoft.com/global/en/job/1602351/Applied-Scientist%3a-PhD-Internship-Opportunities) | Richmond, WA | |
 | Microsoft    | AI Research         | - | Unknown            | [Job Link](https://jobs.careers.microsoft.com/global/en/job/1627619/AI-Researcher%3A-PhD-Internship-Opportunities-Microsoft-Research) | Richmond, WA | |
 | ByteDance    | AI Research         | - | Unknown            | [Job Link](https://www.linkedin.com/jobs/view/3690915816/?refId=ByteString(length%3D16%2Cbytes%3Dc8339841...722fbede)&trackingId=FfRwpgmaRnpgGe1PdzQNqA%3D%3D) | Bay Area | |
+| Linkedin    | AI Research         | - | Unknown            | [Job Link](https://www.linkedin.com/jobs/view/applied-research-internship-phd-summer-2024-at-linkedin-3724372502/) | Sunnyvale, CA | |
+| Adobe    | Research Scientist         | - | Unknown            | [Job Link](https://careers.adobe.com/us/en/job/R141275/2024-Intern-Research-Scientist-Engineer) | US 6 Locations (CA, WA, ...) | |
+| Adobe    | ML Engineer        | - | Unknown            | [Job Link](https://careers.adobe.com/us/en/job/R141150/2024-Intern-Machine-Learning-Engineer) | US 6 Locations (CA, WA, ...) | |
+| Salesforce    | AI Research       | - | Unknown            | [Job Link](https://salesforce.wd12.myworkdayjobs.com/en-US/External_Career_Site/job/California---Palo-Alto/Summer-2024--Intern--AI-Research_JR219480-2?CF_-_REC_-_LRV_-_Job_Posting_Anchor_-_Country_from_Job_Posting_Location_Extended=bc33aa3152ec42d4995f4791a106ed09&workerSubType=3a910852b2c31010f48d2cefdccd0000) |  Palo Alto | |
+| Zoom    |    Research Scientist     | - | Unknown            | [Job Link](https://careers.zoom.us/jobs/2024-ai-research-scientist-intern-remote-united-states) | Remote | |
+
 
 ### 2023 Summer Intern and Student Researcher
 | Company Name  |       Area    | Post Date    | Interview Question | Link | Location | Applied/Referred |
