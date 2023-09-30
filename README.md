@@ -1,4 +1,4 @@
-# List of Internships in Top AI Industry Labs
+# List of Internships in Awesome AI Industry Labs
 
 **Feel free to make PRs about opportunities you find!** Let's make things just a little easier together.
 
