@@ -1,6 +1,6 @@
-# AI-related Intern and Student Researcher Opportunities (now in the year 2024)
+# List of AI Internships (Year 2024)
 
-The economy isn't soft-landing, hype is there but hiring is freezing. **Feel free to make PRs about opportunities you find!** Let's make things just a little easier together.
+**Feel free to make PRs about opportunities you find!** Let's make things just a little easier together.
 
 This is a live collection of AI-related summer internships and part-time student researcher positions. This is maintained actively, and up-to-date for each year. Please reach out to `wuzhengx@stanford.edu` if you have any questions. Since my main research interest is NLP, my collection could be a little biased. I will try my best to collect other ones as well.
 
