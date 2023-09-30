@@ -53,6 +53,8 @@ This is a live collection of AI-related summer internships and part-time student
 | IBM    |    RS Conversation AI Model Development     | - | Unknown            | [Job Link](https://careers.ibm.com/job/19180978/2024-intern-research-scientist-conversation-ai-model-development-remote/?codes=WEB_SEARCH_NA&_gl=1*2v75dv*_ga*MTU2NTI1Nzg0Mi4xNjk2MDQ3NTc2*_ga_FYECCCS21D*MTY5NjA0NzU3NS4xLjEuMTY5NjA0NzYwMi4wLjAuMA..) | Yorktown Heights, San Jose | |
 | IBM    |    RS AI-powered Automation     | - | Unknown            | [Job Link](https://careers.ibm.com/job/19180976/2024-intern-research-scientist-ai-powered-automation-remote/?codes=WEB_SEARCH_NA&_gl=1*2v75dv*_ga*MTU2NTI1Nzg0Mi4xNjk2MDQ3NTc2*_ga_FYECCCS21D*MTY5NjA0NzU3NS4xLjEuMTY5NjA0NzYwMi4wLjAuMA..) | Cambridge, Yorktown Heights | |
 | IBM    |    RS Trustworthy Foundation Models     | - | Unknown            | [Job Link](https://careers.ibm.com/job/19183611/2024-intern-research-scientist-trustworthy-foundation-models-remote/?codes=WEB_SEARCH_NA&_gl=1*2v75dv*_ga*MTU2NTI1Nzg0Mi4xNjk2MDQ3NTc2*_ga_FYECCCS21D*MTY5NjA0NzU3NS4xLjEuMTY5NjA0NzYwMi4wLjAuMA..) | Cambridge, Yorktown Heights | |
+| Google (Deepmind)    |    Student Researcher    | - | Unknown            | [Job Link](https://docs.google.com/forms/d/e/1FAIpQLSe3ZRX1NRnEIsY8auUU-wsMi-EZazqD754gY2QXKZwpCs0wBQ/viewform) | CA, US | |
+
 
 <a name="2023"/>
 
